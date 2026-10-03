@@ -1,0 +1,8 @@
+body {
+  font-family: "Times New Roman", serif;
+  margin: 8px 16px;
+  color: #000;
+  background: #fff;
+}
+h3 { font-size: 1.17em; margin: 1em 0; }
+pre { font-family: monospace; font-size: 1em; margin: 1em 0; }
